@@ -1,0 +1,6 @@
+D:\Work\GitHubProjects\C#Course\One\ModuleOne\ModuleOne\bin\Debug\ModuleOne.exe.config
+D:\Work\GitHubProjects\C#Course\One\ModuleOne\ModuleOne\bin\Debug\ModuleOne.exe
+D:\Work\GitHubProjects\C#Course\One\ModuleOne\ModuleOne\bin\Debug\ModuleOne.pdb
+D:\Work\GitHubProjects\C#Course\One\ModuleOne\ModuleOne\obj\Debug\ModuleOne.csprojResolveAssemblyReference.cache
+D:\Work\GitHubProjects\C#Course\One\ModuleOne\ModuleOne\obj\Debug\ModuleOne.exe
+D:\Work\GitHubProjects\C#Course\One\ModuleOne\ModuleOne\obj\Debug\ModuleOne.pdb
